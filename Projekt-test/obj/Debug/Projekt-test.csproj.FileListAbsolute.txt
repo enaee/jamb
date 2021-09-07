@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\Projekt-test.exe.config
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\Projekt-test.exe
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\Projekt-test.pdb
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\IronPython.dll
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\IronPython.Modules.dll
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\Microsoft.Scripting.dll
+C:\Users\User\source\repos\Projekt-test\Projekt-test\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt_test.Form1.resources
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt_test.Properties.Resources.resources
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.csproj.CopyComplete
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.exe
+C:\Users\User\source\repos\Projekt-test\Projekt-test\obj\Debug\Projekt-test.pdb
